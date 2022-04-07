@@ -55,19 +55,21 @@
     <th rowspan="2">
       Studying<br>
       <sub>
-        ⏳ Introduction to Parallel Programming<p> 
-        <p>🧶 Software Engineering II
+        ⏳ Introduction to Parallel Programming<p><p>
+        🧶 Software Engineering II
       </sub>
     </th>
   </tr>
-    <tr>
+  
+  <tr>
     <th rowspan="2">
       Learning<br>
       <sub>
-        Languages: Japanese & Python<p><p> 
-        Videogame Design: Unreal Engine & Illustration
+        💻 Languages: Japanese & Python<p><p>
+        🎮 Videogame Design: Unreal Engine & Illustration
       </sub>
-     </th>
+    </th>
   </tr>
+  
 </table>
 
