@@ -1,4 +1,3 @@
-<!--header-->
 <center>
 <table>
   <tr><th colspan="2"><a href="https://twitter.com/HelloGaray" target="_blank" rel="nofollow"><img align="right" alt="Leo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/HelloGaray" target="_blank" rel="nofollow"><img align="right" alt="Leo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/HelloGaray" target="_blank" rel="nofollow"><img align="right" alt="Leo's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
@@ -41,6 +40,4 @@
 
 
 </table>
-  </center>
-<!--/header-->
 
