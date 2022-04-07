@@ -12,7 +12,7 @@
     </th>
   </tr>
   <!--/introduction-->
-  
+ 
   <!--base-->
   <tr>
       <th colspan="2">
@@ -23,37 +23,22 @@
   
   <!--education-->  
   <tr>
-    <th rowspan="3">Computer Science Student<br><sub><a href="oregonstate.edu">📗 Oregon State University</a></sub></th>
-    <td><code>Oregon State University: BS Computer Science</code></td>
-  </tr>
-  <tr>
-    <td><code>University of Utah: BS Psychology, BS Sociology, Minor in Criminology</code></td>
-  </tr>
-  <tr>
+     <th colspan="2">Computer Science Student<br>
+       <sub>Oregon State University</sub><br>
+    <sub>University of Utah: <code>BS Psychology | BS Sociology | Minor in Criminology</code></sub></th>
   </tr>
   <!--/education-->  
 
   
 
   <tr>
-    <th rowspan="3">Studying<br><sub>⏳ Introduction to Parallel Programming <p> <p>🧶 Software Engineering II</sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a></td>
+    <th rowspan="2">Studying<br><sub>⏳ Introduction to Parallel Programming <p> <p>🧶 Software Engineering II</sub></th>
   </tr>
-  <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code></td>
+    <tr>
+    <th rowspan="2">Learning<br><sub>Languages: Japanese & Python <p>  <p> Videogame Design: Unreal Engine & Illustration</sub></th>
   </tr>
-  <tr>
-  </tr>
-  
-   <tr>
-    <th rowspan="3">Learning<br><sub>Languages: Japanese & Python <p>  <p> Videogame Design: Unreal Engine & Illustration</sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a></td>
-  </tr>
-  <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code></td>
-  </tr>
-  <tr>
-  </tr>
+
+
 
 </table>
   </center>
