@@ -10,24 +10,23 @@
   </tr>
   
   <tr>
+      <th colspan="2">
+        <sub> 🇯🇵 Based in Saga, Japan </sub>
+      </th>
+  </tr>
+
+  
+  <tr>
     <th rowspan="3">Computer Science Student<br><sub><a href="oregonstate.edu">📗 Oregon State University</a></sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a></td>
+    <td><code>Oregon State University: BS Computer Science</code></td>
   </tr>
   <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code></td>
+    <td><code>University of Utah: BS Psychology, BS Sociology, Minor in Criminology</code></td>
   </tr>
   <tr>
   </tr>
 
-  <tr>
-    <th rowspan="3">Based in Japan<br><sub>🇯🇵 Saga, Japan</sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a></td>
-  </tr>
-  <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code></td>
-  </tr>
-  <tr>
-  </tr>
+
   
 
   <tr>
