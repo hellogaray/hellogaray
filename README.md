@@ -30,7 +30,7 @@
   <!--base-->
   <tr>
       <th colspan="2">
-        🇯🇵 Based in Saga, Japan
+        🇯🇵 Based in Saga, Japan.
       </th>
   </tr>
   <!--/base-->
