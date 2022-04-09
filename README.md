@@ -43,7 +43,7 @@
          Oregon State University
        </sub><br>
        <sub>
-         University of Utah: <code>BS Psychology | BS Sociology | Minor in Criminology</code>
+         University of Utah: BS Psychology | BS Sociology | Minor in Criminology
        </sub>
     </th>
   </tr>
