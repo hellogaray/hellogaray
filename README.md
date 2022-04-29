@@ -56,7 +56,8 @@
       Studying:<br>
       <sub>
         ⏳ Introduction to Parallel Programming<p><p>
-        🧶 Software Engineering II
+        🧶 Software Engineering II<p><p>
+        📋 Google UX Design Certificate
       </sub>
     </th>
   </tr>
