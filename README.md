@@ -1,4 +1,4 @@
-<center>e
+<center>
 <table>
   <!--links-->
   <tr>
