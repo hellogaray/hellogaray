@@ -55,8 +55,8 @@
     <th rowspan="2">
       Studying:<br>
       <sub>
-        ⏳ Introduction to Parallel Programming<p><p>
-        🧶 Software Engineering II<p><p>
+        ⏳ Analysis of Algorithms<p><p>
+        🧶 Open Source Software <p><p>
         📋 Google UX Design Certificate
       </sub>
     </th>
