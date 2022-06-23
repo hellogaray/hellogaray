@@ -67,7 +67,8 @@
       Learning:<br>
       <sub>
         💻 Languages: Japanese & Python<p><p>
-        🎮 Videogame Design: Unreal Engine & Illustration
+        🎮 Videogame Design: Unreal Engine 5 C++ & Illustration
+
       </sub>
     </th>
   </tr>
