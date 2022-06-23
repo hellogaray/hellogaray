@@ -68,7 +68,6 @@
       <sub>
         💻 Languages: Japanese & Python<p><p>
         🎮 Videogame Design: Unreal Engine 5 C++ & Illustration
-
       </sub>
     </th>
   </tr>
