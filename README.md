@@ -26,8 +26,11 @@ Feel free to explore and check out the code!
 
 ## Connect with Me
 
-- [hellogaray]
-- [@hellogaray]
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/hellogaray/)
+- [Twitter](https://twitter.com/hellogaray)
+
 
 ## Contributors
 
