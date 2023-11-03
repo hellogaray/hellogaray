@@ -1,4 +1,4 @@
-Hello there! 👋 I'm Leo, a soon-to-be graduate with a mission to delve into various creative and technical realms. I'm passionate about learning and exploring the following:
+Hello there! 👋 I'm Leo, a soon-to-be graduate with a mission to delve into various creative and technical realms. I'm passionate about learning and exploring the following:.
 
 - 🎓 Game Development
 - 📱 App Development
