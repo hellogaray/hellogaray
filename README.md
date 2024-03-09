@@ -1,10 +1,11 @@
 Hello there! 👋 I'm Leo, a soon-to-be graduate with a mission to delve into various creative and technical realms. I'm passionate about learning and exploring the following:.
 
-- 🎓 Game Development
-- 📱 App Development
-- 🎨 UX Design
-- ✏️ Drawing
-- 🎭 Character Illustration
+- Game Development
+- Web Development
+- App Development
+- UX Design
+- Drawing
+- Character Illustration
 
 Currently, I'm actively working on my Capstore Project - "Hello, Habits!" - a minimalist iOS app, a habit tracker designed to help people develop healthy habits. 
 
