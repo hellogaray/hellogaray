@@ -18,6 +18,7 @@ Here are some highlights of my projects:
 - [SQL Database Project]
 
 Feel free to explore and check out the code!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellogaray&layout=compact)
 
 ## Connect with Me
 
