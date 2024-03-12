@@ -14,6 +14,7 @@ Currently, I'm actively working on my Capstore Project - "Hello, Habits!" - a mi
 Here are some highlights of my projects:
 
 - [Hello, Habits! - Capstore Project]
+- [Hello, Habits! - UX Project]
 - [Small Shell Project]
 - [SQL Database Project]
 
