@@ -4,8 +4,7 @@ Hello there! 👋 I'm Leo, a soon-to-be CS graduate with a mission to delve into
 - Web Development
 - App Development
 - UX Design
-- Drawing
-- Character Illustration
+- Character Design
 
 Currently, I'm actively working on my Capstore Project - "Hello, Habits!" - a minimalist iOS app, a habit tracker designed to help people develop healthy habits. 
 
