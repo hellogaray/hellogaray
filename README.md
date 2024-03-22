@@ -1,23 +1,43 @@
-Hello there! 👋 I'm Leo, a soon-to-be CS graduate with a mission to delve into various creative and technical realms. I'm passionate about learning and exploring the following:.
+# Hello, World! 👋
 
-- Game Development
-- Web Development
-- App Development
-- UX Design
-- Character Design
+### I'm Leo, a soon-to-be CS graduate with a passion for creativity and technology.
 
-Currently, I'm actively working on my Capstore Project - "Hello, Habits!" - a minimalist iOS app, a habit tracker designed to help people develop healthy habits. 
+---
+
+## About Me
+
+I'm on a mission to explore various creative and technical realms, always eager to learn and experiment with new ideas. Here are some areas I'm passionate about:
+
+- Game Development 🎮
+- Web Development 🌐
+- App Development 📱
+- UX Design 🎨
+- Character Design 🖌️
+
+Currently, I'm actively working on my Capstone Project - **"Hello, Habits!"** - a minimalist iOS app designed to help people develop healthy habits.
 
 ## Projects
 
 Here are some highlights of my projects:
 
-- [Hello, Habits! - Capstore Project](https://github.com/hellogaray/Portfolio-Project-Hello-Habits)
-- [Hello, Habits! - UX Project]
-- [Small Shell Project]
-- [SQL Database Project]
+- [**Hello, Habits! - Capstone Project**](https://github.com/hellogaray/Portfolio-Project-Hello-Habits)
+- **Hello, Habits! - UX Project**
+- **Small Shell Project**
+- **SQL Database Project**
 
 Feel free to explore and check out the code!
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/assembly.png" alt="Assembly Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift Icon" width="40" height="40"/>
+</p>
+
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellogaray&layout=compact)
 
@@ -27,4 +47,5 @@ Feel free to explore and check out the code!
 - [Twitter](https://twitter.com/hellogaray)
 
 Feel free to contribute to any project by submitting issues or pull requests. Your input is highly valued!
-Thank you for visiting hellogaray's GitHub! Happy coding!  🚀
+
+Thank you for visiting my GitHub! Happy coding! 🚀
