@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-### I'm Leo, a soon-to-be CS graduate with a passion for creativity and technology.
+### I'm Leo, a CS graduate with a passion for creativity and technology.
 
 ---
 
