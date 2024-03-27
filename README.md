@@ -27,7 +27,15 @@ Here are some highlights of my projects:
 
 Feel free to explore and check out the code!
 
+
+## Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellogaray&layout=compact" alt="Top Languages" />
+</div>
+
 <p align="center">
+  
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 Icon" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Icon" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="40" height="40"/>
@@ -35,11 +43,13 @@ Feel free to explore and check out the code!
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/assembly.png" alt="Assembly Icon" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma" alt="Figma Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/xcode" alt="Xcode Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm" alt="PyCharm Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity Icon" width="40" height="40"/>
 </p>
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellogaray&layout=compact)
 
 ## Connect with Me
 
