@@ -56,6 +56,4 @@ Feel free to explore and check out the code!
 - [LinkedIn](https://www.linkedin.com/in/hellogaray/)
 - [Twitter](https://twitter.com/hellogaray)
 
-Feel free to contribute to any project by submitting issues or pull requests. Your input is highly valued!
-
 Thank you for visiting my GitHub! Happy coding! 🚀
