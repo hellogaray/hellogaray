@@ -7,19 +7,22 @@
 
 I'm on a mission to explore various creative and technical realms, always eager to learn and experiment with new ideas. Here are some areas I'm passionate about:
 
-- Game Development 🎮
-- Web Development 🌐
-- App Development 📱
-- UX Design 🎨
-- Character Design 🖌️
+- 🎮 Game Development
+- 🌐 Web Development
+- 📱 App Development
+- 🎨 UX Design
+- 🖌️ Character Design
 
-Currently, I'm actively working on my Capstone Project - **"Hello, Habits!"** - a minimalist iOS app designed to help people develop healthy habits.
+## Current Projects
+Some of my current projects, both, from personal and course work:
+
+- [**Hello, Habits! - Capstone Project**](https://github.com/hellogaray/Portfolio-Project-Hello-Habits)
+- 
 
 ## Projects
 
-Here are some highlights of my projects:
+Here are some highlights of my older projects, most of them will not get any more updates or have been completed:
 
-- [**Hello, Habits! - Capstone Project**](https://github.com/hellogaray/Portfolio-Project-Hello-Habits)
 - **Hello, Habits! - UX Project**
 - **Small Shell Project**
 - **SQL Database Project**
