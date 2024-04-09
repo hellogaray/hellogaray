@@ -58,4 +58,5 @@ Feel free to explore and check out the code!
 - [LinkedIn](https://www.linkedin.com/in/hellogaray/)
 - [Twitter](https://twitter.com/hellogaray)
 
-Thank you for visiting my GitHub! Happy coding!
+Thank you for visiting my GitHub.
+Happy coding!
