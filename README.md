@@ -29,7 +29,6 @@ Here are some highlights of my older projects, most of them will not get any mor
 
 Feel free to explore and check out the code!
 
-
 ## Top Languages
 
 <div align="center">
