@@ -16,7 +16,6 @@ I'm on a mission to explore various creative and technical realms, always eager 
 Some of my current projects, both, from personal and course work:
 
 - [**Hello, Habits! - Capstone Project**](https://github.com/hellogaray/Portfolio-Project-Hello-Habits)
-- 
 
 ## Projects
 
