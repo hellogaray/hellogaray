@@ -19,7 +19,7 @@ Some of my current projects, both, from personal and course work:
 
 The following projects are part of a set to assits English teachers at a Japanese school with more interactive lessons.
 
-- [**Bowser's Big Blast - Learn Ordinals**] (https://github.com/hellogaray/Genkai-Bowsers-Big-Blast)
+- [**Bowser's Big Blast - Learn Ordinals**](https://github.com/hellogaray/Genkai-Bowsers-Big-Blast)
 
 ## Projects
 
