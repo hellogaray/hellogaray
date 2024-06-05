@@ -17,7 +17,7 @@ Some of my current projects, both, from personal and course work:
 
 - [**Hello, Habits! - Capstone Project**](https://github.com/hellogaray/Portfolio-Project-Hello-Habits)
 
-The following projects are part of a set to assits English teachers at a Japanese school with more interactive lessons.
+The following are part of group fo projects to assits English teachers at a Japanese school with more interactive lessons.
 
 - [**Bowser's Big Blast - Learn Ordinals**](https://github.com/hellogaray/Genkai-Bowsers-Big-Blast)
 
