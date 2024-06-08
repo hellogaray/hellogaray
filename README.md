@@ -7,10 +7,11 @@
 I'm on a mission to explore various creative and technical realms, always eager to learn and experiment with new ideas. Here are some areas I'm passionate about:
 
 - 🎮 Game Development
+- 🎮 Game Design Principles
+- 🖌️ Character/Asset Design
 - 🌐 Web Development
 - 📱 App Development
 - 🎨 UX Design
-- 🖌️ Character Design
 
 ## Current Projects
 Some of my current projects, both, from personal and course work:
