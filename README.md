@@ -7,7 +7,6 @@
 I'm on a mission to explore various creative and technical realms, always eager to learn and experiment with new ideas. Here are some areas I'm passionate about:
 
 - 🎮 Game Development
-- 🎮 Game Design Principles
 - 🖌️ Character/Asset Design
 - 🌐 Web Development
 - 📱 App Development
