@@ -10,7 +10,7 @@ I'm on a mission to explore various creative and technical realms, always eager 
 - <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="Blender Icon" width="30" height="30"/> Character/Asset Design  
 - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code Icon" width="30" height="30"/> Web Development
 - <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift Icon" width="30" height="30"/> App Development
-- 🎨 UX Design
+- <img src="https://img.icons8.com/color/48/000000/figma" alt="Figma Icon" width="30" height="30"/> UX Design
 
 ## Current Projects
 Some of my current projects, both, from personal and course work:
