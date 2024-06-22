@@ -33,30 +33,35 @@ Feel free to explore and check out the code!
 
 ## Top Languages
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellogaray&layout=compact" alt="Top Languages" />
-</div>
+</p>
+
+## Technologies
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/assembly.png" alt="Assembly Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/figma" alt="Figma Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/xcode" alt="Xcode Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/pycharm" alt="PyCharm Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code Icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity Icon" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/assembly.png"/>
+  <img src="https://img.icons8.com/color/48/000000/swift.png"/>
+  <img src="https://img.icons8.com/color/48/000000/notion.png"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
+  <img src="https://img.icons8.com/color/48/000000/xcode.png"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/unity.png"/>
 </p>
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/hellogaray/)
-- [Twitter](https://twitter.com/hellogaray)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hellogaray/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/hellogaray"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
+</p>
 
-Thank you for visiting my GitHub.
-Happy coding!
+<p align="center">
+  Thank you for visiting my GitHub. Happy coding!
+</p>
