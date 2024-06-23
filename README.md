@@ -53,6 +53,7 @@ Feel free to explore and check out the code!
   <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/unity.png"/>
+  <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
 </p>
 
 ## Connect with Me
