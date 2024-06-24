@@ -65,5 +65,5 @@ Feel free to explore and check out the code!
 </p>
 
 <p align="center">
-  Thank you for visiting my GitHub. Happy coding!
+  Happy coding!
 </p>
