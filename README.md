@@ -13,7 +13,7 @@ I'm on a mission to explore various creative and technical realms, always eager 
 - <img src="https://img.icons8.com/color/48/000000/figma" alt="Figma Icon" width="20" height="20"/> UX Design
 
 ## Current Projects
-Some of my current projects, both, from personal and course work:
+Some of my current projects, both, from personal and course work.
 
 - [**Hello, Habits! - Capstone Project**](https://github.com/hellogaray/Portfolio-Project-Hello-Habits)
 
