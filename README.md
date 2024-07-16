@@ -63,7 +63,6 @@ Feel free to explore and check out the code!
   <a href="https://www.linkedin.com/in/hellogaray/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/hellogaray"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
 </p>
-
 <p align="center">
   Happy coding!
 </p>
