@@ -1,9 +1,9 @@
-# Hello, World! 👋
+# 🌍 Hello, World! 👋
 
-### I'm Leo, a CS graduate with a passion for creativity and technology.
+## 🌟 I'm Leo — A CS Graduate Exploring Creativity & Technology
 
-## About Me
- 
+### 🚀 About Me
+
 I'm on a mission to explore various creative and technical realms, always eager to learn and experiment with new ideas. Here are some areas I'm passionate about:
 
 - <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="Unity Icon" width="20" height="20"/> Game Development
@@ -12,32 +12,31 @@ I'm on a mission to explore various creative and technical realms, always eager 
 - <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift Icon" width="20" height="20"/> App Development
 - <img src="https://img.icons8.com/color/48/000000/figma" alt="Figma Icon" width="20" height="20"/> UX Design
 
-## Current Projects
-Some of my current projects, both, from personal and course work.
+### 🔥 Current Projects
 
-- [**Hello, Habits! - Capstone Project**](https://github.com/hellogaray/Portfolio-Project-Hello-Habits)
+🚀 **[Hello, Habits! - Capstone Project](https://github.com/hellogaray/Portfolio-Project-Hello-Habits)**  
+A habit-tracking app designed to enhance productivity and personal growth.
 
-The following are projects to assits English teachers at a Japanese school with more interactive lessons.
+🎮 **[Bowser's Big Blast - Learn Ordinals](https://github.com/hellogaray/Genkai-Bowsers-Big-Blast)**  
+An educational game created to help English teachers in Japan deliver more interactive lessons.
 
-- [**Bowser's Big Blast - Learn Ordinals**](https://github.com/hellogaray/Genkai-Bowsers-Big-Blast)
+### ⏳ Previous Projects
 
-## Projects
+Here are some highlights from my past work, some completed and others archived:
 
-Here are some highlights of my older projects, most of them will not get any more updates or have been completed:
+- 🎨 **Hello, Habits! - UX Project**  
+- 🖥️ **Small Shell Project** (Systems Programming)  
+- 📊 **SQL Database Project**  
 
-- **Hello, Habits! - UX Project**
-- **Small Shell Project**
-- **SQL Database Project**
+Explore the code and check out the projects!
 
-Feel free to explore and check out the code!
-
-## Top Languages
+### 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellogaray&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellogaray&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## Technologies
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -54,12 +53,13 @@ Feel free to explore and check out the code!
   <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
 </p>
 
-## Connect with Me
+### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hellogaray/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hellogaray/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/></a>
   <a href="https://twitter.com/hellogaray"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
 </p>
+
 <p align="center">
-  Happy coding!
+  🚀 Let's build something amazing! Happy coding! 🎉
 </p>
