@@ -53,13 +53,6 @@ Explore the code and check out the projects!
   <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
 </p>
 
-### 📬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hellogaray/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/></a>
-  <a href="https://twitter.com/hellogaray"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
-</p>
-
 <p align="center">
   🚀 Let's build something amazing! Happy coding! 🎉
 </p>
