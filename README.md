@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I'm on a mission to explore various creative and technical realms, always eager to learn and experiment with new ideas. Here are some areas I'm passionate about:
+I'm on a mission to explore various creative and technical realms, always eager to learn and experiment with new ideas. Here are some areas I'm passionate about
 
 - <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="Unity Icon" width="20" height="20"/> Game Development
 - <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="Blender Icon" width="20" height="20"/> Character/Asset Design  
